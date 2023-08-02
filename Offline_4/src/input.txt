@@ -1,0 +1,74 @@
+1
+Hackathon
+2023-07-23
+ECE Building
+1
+1
+IUPC
+2023-07-27
+ECE Building
+50
+1
+DL Sprint
+2023-07-28
+ECE Building
+20
+1
+Game Jam
+2023-07-22
+ECE Building
+10
+2
+Mr. A
+202105001
+Hackathon
+2
+Mr. B
+2021050061
+Hackathon
+2
+Mr. C
+20210500121
+Hackathon
+2
+Mr. D
+202105011
+IUPC
+2
+Mr. E
+2021050071
+IUPC
+2
+Mr. F
+20210500131
+DL Sprint
+2
+Mr. G
+20210500181
+DL Sprint
+2
+Mr. H
+2021050100
+Game Jam
+2
+Mr. A
+202105001
+Game Jam
+3
+4
+Game Jam
+5
+2023-07-23
+6
+7
+202105001
+8
+202105001
+Game Jam
+7
+202105001
+9
+
+
+
+
